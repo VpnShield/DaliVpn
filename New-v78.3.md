@@ -1,10 +1,10 @@
 {
-"Title": "کانفیگ V2Ray رایگان",
-"Description": "برای دریافت کانفیگ رایگان و بدون قطعی با لوکیشن‌های متنوع وارد کانال جدید ما شوید ❤️ ",
-"Link": "tg://join?invite=kE0E8r8LlSc3ODU8",
-"ColorWave": "#00E5FF",
-"Color": "#FFA500",
-"ColorWaveTwo": "#00B8D4",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "61655663403",
-"ShowTime": "3",
-"Button": " عضویت فوردی ",
-"ButtonCancell": " نمیخوام ",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
